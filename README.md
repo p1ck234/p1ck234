@@ -61,7 +61,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=p1ck234&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=p1ck234&show_icons=true&theme=dracula" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1ck234" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1ck234&layout=compact" alt="GitHub Streak" />
 </div>
 
 ###
