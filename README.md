@@ -60,10 +60,8 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=p1ck234&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p1ck234&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p1ck234)](https://github.com/anuraghazra/github-readme-stats)
-
-###
