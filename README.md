@@ -119,20 +119,11 @@
   <img src="assets/github-snake.svg" alt="GitHub contribution snake" width="100%"/>
 </div>
 
+
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=p1ck234&show_icons=true&theme=dracula&hide_border=true"
-    alt="GitHub Stats"
-    height="165"
-  />
-
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=p1ck234&layout=compact&theme=dracula&hide_border=true"
-    alt="Top Languages"
-    height="165"
-  />
+  <img src="https://github-stats-extended.vercel.app/api?username=p1ck234&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="165" />&nbsp;<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=p1ck234&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
 ---
